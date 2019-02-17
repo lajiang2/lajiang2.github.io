@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/lajiang2.github.io/personal-website/precache-manifest.394f98b81a3c7a5d4ec82042b0aab5b6.js"
+  "/personal-website/precache-manifest.9928a60e19651a31c19b48784cea7bad.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/lajiang2.github.io/personal-website/index.html", {
+workbox.routing.registerNavigationRoute("/personal-website/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

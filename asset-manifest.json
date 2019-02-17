@@ -1,14 +1,14 @@
 {
-  "main.css": "/lajiang2.github.io/personal-website/static/css/main.7633072e.chunk.css",
-  "main.js": "/lajiang2.github.io/personal-website/static/js/main.168ba7c5.chunk.js",
-  "main.js.map": "/lajiang2.github.io/personal-website/static/js/main.168ba7c5.chunk.js.map",
-  "runtime~main.js": "/lajiang2.github.io/personal-website/static/js/runtime~main.6c60f861.js",
-  "runtime~main.js.map": "/lajiang2.github.io/personal-website/static/js/runtime~main.6c60f861.js.map",
-  "static/js/2.ba1ca5ba.chunk.js": "/lajiang2.github.io/personal-website/static/js/2.ba1ca5ba.chunk.js",
-  "static/js/2.ba1ca5ba.chunk.js.map": "/lajiang2.github.io/personal-website/static/js/2.ba1ca5ba.chunk.js.map",
-  "index.html": "/lajiang2.github.io/personal-website/index.html",
-  "precache-manifest.394f98b81a3c7a5d4ec82042b0aab5b6.js": "/lajiang2.github.io/personal-website/precache-manifest.394f98b81a3c7a5d4ec82042b0aab5b6.js",
-  "service-worker.js": "/lajiang2.github.io/personal-website/service-worker.js",
-  "static/css/main.7633072e.chunk.css.map": "/lajiang2.github.io/personal-website/static/css/main.7633072e.chunk.css.map",
-  "static/media/logo.svg": "/lajiang2.github.io/personal-website/static/media/logo.5d5d9eef.svg"
+  "main.css": "/personal-website/static/css/main.7633072e.chunk.css",
+  "main.js": "/personal-website/static/js/main.cc53dc4e.chunk.js",
+  "main.js.map": "/personal-website/static/js/main.cc53dc4e.chunk.js.map",
+  "runtime~main.js": "/personal-website/static/js/runtime~main.22175ee0.js",
+  "runtime~main.js.map": "/personal-website/static/js/runtime~main.22175ee0.js.map",
+  "static/js/2.ba1ca5ba.chunk.js": "/personal-website/static/js/2.ba1ca5ba.chunk.js",
+  "static/js/2.ba1ca5ba.chunk.js.map": "/personal-website/static/js/2.ba1ca5ba.chunk.js.map",
+  "index.html": "/personal-website/index.html",
+  "precache-manifest.9928a60e19651a31c19b48784cea7bad.js": "/personal-website/precache-manifest.9928a60e19651a31c19b48784cea7bad.js",
+  "service-worker.js": "/personal-website/service-worker.js",
+  "static/css/main.7633072e.chunk.css.map": "/personal-website/static/css/main.7633072e.chunk.css.map",
+  "static/media/logo.svg": "/personal-website/static/media/logo.5d5d9eef.svg"
 }
